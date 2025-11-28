@@ -1,7 +1,9 @@
 # Cat Image Classification – Neural Network Project
 
 ## Project Summary
-This project aims to develop a highly accurate neural network model to classify 8,000 images of cats into their respective categories. By leveraging state-of-the-art pre-trained convolutional neural networks (CNNs) and systematic experimentation, the final model achieves robust performance on both training and test datasets.
+This project aims to develop a highly accurate neural network model to classify 8,000 images of cats into their respective categories. ![Cat Categories](cat-categories.png)
+
+By leveraging state-of-the-art pre-trained convolutional neural networks (CNNs) and systematic experimentation, the final model achieves robust performance on both training and test datasets.
 
 ---
 
