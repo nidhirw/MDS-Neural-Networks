@@ -7,6 +7,7 @@ This project aims to develop a highly accurate neural network model to classify 
 
 ## What's in This Repo
 - **`model.py`** – Main model definition and image transforms using a pre-trained RegNet_Y_800MF CNN for cat image classification
+- **`a3main.py`** – Training and evaluation script (provided as part of the assignment; not modified, as the project focus was on the final model)
 - **`Designing & Training Neural Networks - Image Classification.pdf`** – Detailed project report documenting the methodology, experiments, and results
 - **`README.md`** – Project documentation and summary
 
